@@ -10,9 +10,9 @@ A seguir as regras do desafio:
 - Gerar networking com as pessoas que também estão participando do desafio.
 
 ## Desafios
- - ❌ Dia 01: Criar um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código.
+ - ✅ Dia 01: Criar um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código.
 
- - ❌ Dia 02: Fazer um Hello World customizado com fontes, cores e imagens.
+ - ✅ Dia 02: Fazer um Hello World customizado com fontes, cores e imagens.
 
  - ❌ Dia 03: Criar um botão animado.
 
